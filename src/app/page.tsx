@@ -24,8 +24,8 @@ export default function Home() {
         preTitle="GTA6 Solana Benefits"
         title=" Why should you trust us to support your dedication?"
       >
-        We're a team that grew up with the iconic GTA series—GTA 4, Vice City, and GTA 5 shaped our childhoods. 
-        Our love for the game runs deep, and now we're here to unite fans and build a strong, passionate community that celebrates GTA!
+        We&apos;re a team that grew up with the iconic GTA series—GTA 4, Vice City, and GTA 5 shaped our childhoods. 
+        Our love for the game runs deep, and now we&apos;re here to unite fans and build a strong, passionate community that celebrates GTA!
       </SectionTitle>
 
       <Benefits data={benefitOne} />
@@ -36,7 +36,7 @@ export default function Home() {
         title="Take 90 Seconds to Focus on What Fuels Your Passion"
       >
         This is the long-awaited GTA6 trailer, Released on December 5, 2023. 
-        Maybe it's been a while since you've watched it, but don't worry, we've brought it here for you. 
+        Maybe it&apos;s been a while since you&apos;ve watched it, but don&apos;t worry, we&apos;ve brought it here for you. 
         Take a moment to immerse yourself once again, letting these scenes bring back memories of your childhood and touch that vulnerable part of your heart where your deepest love and anticipation reside.
       </SectionTitle>
 
