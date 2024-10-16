@@ -17,7 +17,7 @@ export default function Home() {
         preTitle="How To Buy?"
         title="Contract Address Down Below"
       >
-        GTA6Diiz5M65NtMYoCJJnSh6fD7iryi6SGsxwfWPEv9c
+        BByL3VrEdyD3aGqLKAD6PiFpbnUnJnxgTTzxHN7apump
       </SectionTitle>
 
       <SectionTitle
